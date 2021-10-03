@@ -140,6 +140,12 @@ hr{
 
 .footer-link{
     color:  #11999E;
+    padding: 1%;
+    text-decoration: auto;
+}
+
+.footer-link:hover{
+    color: #FFFFFF
 }
 
 .btn {
@@ -170,7 +176,7 @@ hr{
   }
 
 .copyright{
-    color: #EAF6F6;
+    color: #FFFFFF;
     size: 0.75rem;
     padding: 20px 0;
 }  
